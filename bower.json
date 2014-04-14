@@ -1,0 +1,16 @@
+{
+  "name": "cookie.js",
+  "main": "cookie.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tw/cookie.js",
+  "authors": [
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
